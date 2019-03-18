@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1552915262 source:e:\c++\toonie\main.cpp
+	<iostream>
+	"apstring.h"
+	"apstring.cpp"
+	"string.h"
+	<cctype>
+	<ctype.h>
+
+1552868516 e:\c++\toonie\apstring.h
+	<iostream>
+
+1551756522 e:\c++\toonie\apstring.cpp
+	<string.h>
+	<assert.h>
+	"apstring.h"
+
